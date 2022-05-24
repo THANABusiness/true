@@ -246,161 +246,248 @@
 
   "speakers": [
     {
-      "name": "Burt Bear",
-      "profilePic": "/assets/img/speakers/bear.jpg",
-      "instagram": "ionicframework",
-      "twitter": "ionicframework",
-      "about": "Burt is a Bear. Burt's interests include poetry, dashing space heroes, and lions.",
-      "title": "Software Engineer",
-      "location": "Everywhere",
-      "email": "burt@example.com",
-      "phone": "+1-541-754-3010",
-      "id": "1"
-    },
-    {
-      "name": "Charlie Cheetah",
-      "profilePic": "/assets/img/speakers/cheetah.jpg",
-      "instagram": "ionicframework",
-      "twitter": "ionicframework",
-      "about": "Charlie is a Cheetah. Charlie's interests include country music, plush animals, pyrotechnics, and skeletons.",
-      "title": "Software Engineer",
-      "location": "Everywhere",
-      "email": "charlie@example.com",
-      "phone": "+1-541-754-3010",
-      "id": "2"
-    },
-    {
-      "name": "Donald Duck",
-      "profilePic": "/assets/img/speakers/duck.jpg",
-      "instagram": "ionicframework",
-      "twitter": "ionicframework",
-      "about": "Donald is a Duck. Donald's interests include carpentry, superheroes, merpeople, and glam rock.",
-      "title": "Software Engineer",
-      "location": "Everywhere",
-      "email": "donald@example.com",
-      "phone": "+1-541-754-3010",
-      "id": "3"
-    },
-    {
-      "name": "Eva Eagle",
-      "profilePic": "/assets/img/speakers/eagle.jpg",
-      "instagram": "ionicframework",
-      "twitter": "ionicframework",
-      "about": "Eva is an Eagle. Eva's interests include ants, seashells, and cupcakes.",
-      "title": "Developer Advocate",
-      "location": "Everywhere",
-      "email": "eva@example.com",
-      "phone": "+1-541-754-3010",
-      "id": "4"
-    },
-    {
-      "name": "Ellie Elephant",
-      "profilePic": "/assets/img/speakers/elephant.jpg",
-      "instagram": "ionicframework",
-      "twitter": "ionicframework",
-      "about": "Ellie is an Elephant. Ellie's interests include pocket watches, pool, hand fans, and ninjas.",
-      "title": "Software Engineer",
-      "location": "Everywhere",
-      "email": "ellie@example.com",
-      "phone": "+1-541-754-3010",
-      "id": "5"
-    },
-    {
-      "name": "Gino Giraffe",
-      "profilePic": "/assets/img/speakers/giraffe.jpg",
-      "instagram": "ionicframework",
-      "twitter": "ionicframework",
-      "about": "Gino is a Giraffe. Gino's interests include candy-making, unicorns, and birdhouses.",
-      "title": "Software Engineer",
-      "location": "Everywhere",
-      "email": "gino@example.com",
-      "phone": "+1-541-754-3010",
-      "id": "6"
-    },
-    {
-      "name": "Isabella Iguana",
-      "profilePic": "/assets/img/speakers/iguana.jpg",
-      "instagram": "ionicframework",
-      "twitter": "ionicframework",
-      "about": "Isabella is an Iguana. Isabella's interests include crystals, architecture, and candle-making.",
-      "title": "Software Engineer",
-      "location": "Everywhere",
-      "email": "isabella@example.com",
-      "phone": "+1-541-754-3010",
-      "id": "7"
-    },
-    {
-      "name": "Karl Kitten",
-      "profilePic": "/assets/img/speakers/kitten.jpg",
-      "instagram": "ionicframework",
-      "twitter": "ionicframework",
-      "about": "Karl is a Kitten. Karl's interests include skiing, jewelry, and needlepoint.",
-      "title": "Developer Advocate",
-      "location": "Everywhere",
-      "email": "karl@example.com",
-      "phone": "+1-541-754-3010",
-      "id": "8"
-    },
-    {
-      "name": "Lionel Lion",
-      "profilePic": "/assets/img/speakers/lion.jpg",
-      "instagram": "ionicframework",
-      "twitter": "ionicframework",
-      "about": "Lionel is a Lion. Lionel's interests include lizards and mathematics.",
-      "title": "Developer Advocate",
-      "location": "Everywhere",
-      "email": "lionel@example.com",
-      "phone": "+1-541-754-3010",
-      "id": "9"
-    },
-    {
-      "name": "Molly Mouse",
-      "profilePic": "/assets/img/speakers/mouse.jpg",
-      "instagram": "ionicframework",
-      "twitter": "ionicframework",
-      "about": "Molly is a Mouse. Molly's interests include werewolves and magic.",
-      "title": "Software Engineer",
-      "location": "Everywhere",
-      "email": "molly@example.com",
-      "phone": "+1-541-754-3010",
-      "id": "10"
-    },
-    {
-      "name": "Paul Puppy",
-      "profilePic": "/assets/img/speakers/puppy.jpg",
-      "instagram": "ionicframework",
-      "twitter": "ionicframework",
-      "about": "Paul is a Puppy. Paul's interests include maps, whales, and dragons.",
-      "title": "Software Engineer",
-      "location": "Everywhere",
-      "email": "paul@example.com",
-      "phone": "+1-541-754-3010",
-      "id": "11"
-    },
-    {
-      "name": "Rachel Rabbit",
-      "profilePic": "/assets/img/speakers/rabbit.jpg",
-      "instagram": "ionicframework",
-      "twitter": "ionicframework",
-      "about": "Rachel is a Rabbit. Rachel's interests include clowns, skeletons, and yo-yos.",
-      "title": "Senior Software Engineer",
-      "location": "Everywhere",
-      "email": "rachel@example.com",
-      "phone": "+1-541-754-3010",
-      "id": "12"
-    },
-    {
-      "name": "Ted Turtle",
-      "profilePic": "/assets/img/speakers/turtle.jpg",
-      "instagram": "ionicframework",
-      "twitter": "ionicframework",
-      "about": "Ted is a Turtle. Ted's interests include butterflies, skiing, and cupcakes.",
-      "title": "Software Engineer",
-      "location": "Everywhere",
-      "email": "ted@example.com",
-      "phone": "+1-541-754-3010",
-      "id": "13"
-    }
+"user": {
+"id": 658428,
+"first_name": "Thanathon",
+"last_name": "Phrmthet",
+"email": "tewlytewly27@gmail.com",
+"phone": null,
+"role": "owner",
+"permissions": "full_access",
+"locale": "th_TH",
+"country_code": "TH",
+"avatar_url": "https://assets.imgix.net/~text?bg=0AA6D8&txtclr=ffffff&w=200&h=200&txtsize=90&txt=TP&txtfont=Helvetica&txtalign=middle,center?t=1649514555",
+"unite_beta": 0,
+"utm_campaign": null,
+"utm_content": null,
+"utm_medium": null,
+"utm_source": null,
+"utm_term": null,
+"active_paid_store_count": 5,
+"active_free_store_count": 1,
+"expired_paid_store_count": 0,
+"expired_free_store_count": 0,
+"created_at": "2021-11-13T12:33:35+0700",
+"user_hash": "3c074ec58c48633fa44dececb886abaa234d23dbe0c2602c99825a0bfa8c0ab8"
+},
+"store": {
+"id": 937132,
+"plan_id": 0,
+"plan_code": "free",
+"hosting_id": null,
+"theme_id": null,
+"title": "123213123",
+"name": "123213123",
+"url": "https://123213123.easy.co",
+"domain_url": "https://123213123.easy.co",
+"secured_domain_url": "https://123213123.easy.co",
+"pos_url": "https://123213123.pos.easy.co",
+"wholesale_url": "https://123213123.wholesale.easy.co",
+"testcase": false,
+"developer": false,
+"enabled_channels": [ ],
+"wholesale_enabled": false,
+"facebook_enabled": false,
+"instagram_enabled": false,
+"pos_enabled": false,
+"is_new_promotion_enabled": false,
+"locale": "th_TH",
+"country_code": "TH",
+"address_format": "US",
+"timezone": {
+"offset": "+07:00",
+"zone": "Asia/Bangkok"
+},
+"currency": {
+"code": "THB",
+"prefix": "฿",
+"suffix": null,
+"decimal": 2,
+"thousand_separator": ","
+},
+"platform": {
+"website_base": ".easystore.co",
+"website_url": "https://easystore.co",
+"storefront_host": "easy.co",
+"vendor": "EasyStore",
+"show_billing": true,
+"logout_url": "https://www.easystore.co/blog?logout=true"
+},
+"trial": {
+"plan_id": null,
+"expired_at": null
+},
+"billing_information": null,
+"ref_code": null,
+"subscription": [ ],
+"counts": {
+"incomplete_order": 0,
+"app": 0,
+"customer": 0,
+"domain": 0,
+"product": 0,
+"payment_method": 1,
+"shipping_method": 2,
+"theme": 0,
+"channels": 0
+},
+"activations": {
+"product": false,
+"payment": false,
+"shipping": false,
+"order": false,
+"channel": false
+},
+"features": {
+"app_management": {
+"limit": null,
+"entitled": true
+},
+"user_management": {
+"limit": 25,
+"entitled": true
+},
+"custom_copyright": {
+"entitled": true
+},
+"express_checkout": {
+"entitled": true
+},
+"order_management": {
+"limit": null,
+"entitled": true,
+"exportable": true
+},
+"customer_grouping": {
+"entitled": true
+},
+"domain_management": {
+"entitled": true
+},
+"mobile_management": {
+"entitled": true
+},
+"one_page_checkout": {
+"entitled": true
+},
+"seamless_checkout": {
+"entitled": true
+},
+"product_management": {
+"limit": null,
+"entitled": true,
+"exportable": true
+},
+"storage_management": {
+"limit": null,
+"entitled": true
+},
+"customer_management": {
+"limit": null,
+"entitled": true,
+"exportable": true
+},
+"discount_management": {
+"entitled": true,
+"excluded_discount": [ ]
+},
+"location_management": {
+"limit": 10,
+"entitled": true
+},
+"product_log_history": {
+"entitled": true
+},
+"inventory_forecasting": {
+"entitled": true
+},
+"automate_cart_recovery": {
+"entitled": true
+},
+"product_recommendation": {
+"entitled": true,
+"optimised_entitled": 1
+},
+"notification_management": {
+"entitled": true
+},
+"sale_channel_management": {
+"limit": 13,
+"entitled": true,
+"excluded_channels": [ ]
+},
+"phone_account_management": {
+"entitled": true
+},
+"automate_payment_reminder": {
+"entitled": true
+},
+"automate_order_cancelation": {
+"entitled": true
+},
+"broadcast_centre_management": {
+"limit": 500,
+"entitled": true
+},
+"shipping_profile_management": {
+"limit": 20,
+"entitled": true
+}
+},
+"app99sme_enabled": false,
+"boost_day_left": 3,
+"boost_expired_at": "2022-05-28T23:59:59+0700",
+"boosted_at": "2022-05-14T23:59:59+0700",
+"is_boosted_by_system": true,
+"day_left": 18239,
+"expired_at": "2072-05-01T23:59:59+0700",
+"upgraded_at": null,
+"created_at": "2022-05-14T10:46:32+0700",
+"pod_id": 5,
+"plan": "Free Trial"
+},
+"env": {
+"id": 1,
+"partner_id": 1,
+"code": "easystore",
+"title": "EasyStore",
+"website_host": "easystore.co",
+"help_host": "help.easystore.co",
+"admin_host": "admin.easystore.co",
+"storefront_host": "easy.co",
+"wholesale_host": "wholesale.easy.co",
+"pos_host": "pos.easy.co",
+"notification_host": "mail.easystore.co",
+"login_url": "https://admin.easystore.co/login",
+"logout_url": "https://www.easystore.co/blog?logout=true",
+"meta_title": "EasyStore: Ecommerce Platform Made For You",
+"meta_description": "Start selling online for free | Sell more on multiple sales channels. Explore the features you need for your ecommerce business. No transaction fee, no contract",
+"cookie_domain": ".easystore.co",
+"editor_key": "mcfA-13pyD-8cJ-7kA8sD-13==",
+"asset_folder": "easystore",
+"support_enabled": true,
+"support_plugin": "intercom",
+"support_account": "pung17qm",
+"copyright": "© 2022 EasyStore Commerce Sdn Bhd (1020551-M). All Rights Reserved.",
+"updated_at": "2021-06-25T00:41:28.000+08:00",
+"created_at": "2020-07-14T22:30:55.000+08:00",
+"website_url": "https://easystore.co",
+"admin_url": "https://admin.easystore.co",
+"website_base": ".easystore.co",
+"email_domain": "@mail.easystore.co",
+"sf_url": "https://123213123.easy.co",
+"vendor": "EasyStore",
+"show_help": true,
+"show_intercom": true,
+"show_billing": true,
+"show_staff": true,
+"show_profile": true,
+"create_store": true,
+"help_url": "https://help.easystore.co",
+"logo_url": "https://admin.easystore.co/images/logo.svg",
+"sq_logo_url": "https://admin.easystore.co/images/es-sq.svg"
+}
+}
   ],
 
   "map": [
